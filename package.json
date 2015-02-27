@@ -1,0 +1,23 @@
+{
+  "name": "WipeTouch",
+  "version": "1.2.0",
+  "description": "Unofficial clone of http://wipetouch.codeplex.com/",
+  "main": "jquery.wipetouch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/WipeTouch.git"
+  },
+  "keywords": [
+    "jquery",
+    "wipetouch"
+  ],
+  "author": "Igor Amadas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limdauto/WipeTouch/issues"
+  },
+  "homepage": "https://github.com/limdauto/WipeTouch"
+}
