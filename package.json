@@ -1,6 +1,6 @@
 {
   "name": "WipeTouch",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Unofficial clone of http://wipetouch.codeplex.com/",
   "main": "jquery.wipetouch.js",
   "scripts": {
